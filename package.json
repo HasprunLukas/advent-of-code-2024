@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
     "day_1": "cd 'Day 1: Historian Hysteria' && node index.js",
     "day_2": "cd 'Day 2: Red-Nosed Reports' && node index.js",
     "day_3": "cd 'Day 3: Mull It Over' && node index.js",
