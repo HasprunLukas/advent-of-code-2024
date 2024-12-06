@@ -157,7 +157,6 @@ function calculatePartTwo(lines) {
       if (i !== guardPosition[0] || j !== guardPosition[1]) {
         let copiedLines = JSON.parse(JSON.stringify(linesAsArray));
         copiedLines[i][j] = "#"; // Modify safely
-        console.log(`Testing x: ${i}, y: ${j}`);
         if (isInLoop(copiedLines)) {
           sum += 1;
         }
