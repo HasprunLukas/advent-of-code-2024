@@ -11,7 +11,8 @@
     "day_3": "cd 'Day 3: Mull It Over' && node index.js",
     "day_4": "cd 'Day 4: Ceres Search' && node index.js",
     "day_5": "cd 'Day 5: Print Queue' && node index.js",
-    "day_6": "cd 'Day 6: Guard Gallivant' && node index.js"
+    "day_6": "cd 'Day 6: Guard Gallivant' && node index.js",
+    "day_7": "cd 'Day 7: Bridge Repair' && node index.js"
   },
   "author": "Lukáš Hasprún",
   "license": "ISC",
